@@ -15,4 +15,4 @@ Thoughts on the provided solution
 ---------------------
 Anything involving a sort will usually take **O(nlogn)** time, which, when dealing with lots of items, will keep you waiting around for several seconds or even minutes. An O(nlogn) algorithm, for large N, simply cannot be run in realtime when users are waiting.
 
-Finding the top N items can be done in **O(nlogk)** time, which is much, much faster than **O(nlogn)**, using a heap.
+Finding the top K items can be done in **O(nlogk)** time, which is much, much faster than **O(nlogn)**, using a heap.
