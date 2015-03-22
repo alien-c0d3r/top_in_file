@@ -1,0 +1,27 @@
+{
+  "name": "top_in_file",
+  "version": "1.0.0",
+  "description": "gets top N numbers from a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alien-c0d3r/top_in_file.git"
+  },
+  "keywords": [
+    "top",
+    "numbers",
+    "file"
+  ],
+  "author": "Thanos Gkanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alien-c0d3r/top_in_file/issues"
+  },
+  "homepage": "https://github.com/alien-c0d3r/top_in_file",
+  "dependencies": {
+    "underscore": "^1.8.2"
+  }
+}
